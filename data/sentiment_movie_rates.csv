@@ -1,0 +1,250 @@
+IMDB_ID,Title,Average_Rating,Rating_Sentiment,Review_Sentiment,Overall_Sentiment	
+tt0103639,Aladdin,8.45,긍정,긍정,긍정	
+tt0369610,Jurassic World,7.00,평범,호불호,평범	
+tt0478970,Ant-Man,7.19,평범,긍정,평범	
+tt0490215,Silence,7.58,평범,호불호,평범	
+tt0974015,Justice League,5.05,평범,호불호,평범	
+tt10272386,The Father,8.57,긍정,긍정,긍정	
+tt10288566,Another Round,7.80,평범,호불호,평범	
+tt10366206,John Wick: Chapter 4,7.24,평범,부정,부정	
+tt10366460,CODA,8.53,긍정,긍정,긍정	
+tt10370710,The Worst Person in the World,7.90,평범,호불호,평범	
+tt1051906,The Invisible Man,6.85,평범,호불호,평범	
+tt10545296,The Hunger Games: The Ballad of Songbirds & Snakes,6.60,평범,호불호,평범	
+tt10638522,Talk to Me,7.20,평범,긍정,평범	
+tt10640346,Babylon,7.00,평범,호불호,평범	
+tt10648342,Thor: Love and Thunder,5.42,평범,호불호,평범	
+tt10731256,Don't Worry Darling,6.18,평범,호불호,평범	
+tt10872600,Spider-Man: No Way Home,8.74,긍정,긍정,긍정	
+tt10954984,Nope,6.50,평범,호불호,평범	
+tt11032374,Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train,8.70,긍정,긍정,긍정	
+tt11083552,Wrath of Man,7.05,평범,긍정,평범	
+tt11138512,The Northman,6.95,평범,호불호,평범	
+tt11235772,The Voyeurs,5.95,평범,호불호,평범	
+tt11271038,Licorice Pizza,6.56,평범,호불호,평범	
+tt11286314,Don't Look Up,7.12,평범,긍정,평범	
+tt11563598,A Complete Unknown,7.33,평범,호불호,평범	
+tt11564570,Glass Onion,6.90,평범,호불호,평범	
+tt1160419,Dune: Part One,8.16,긍정,호불호,호불호	
+tt11813216,The Banshees of Inisherin,7.91,평범,호불호,평범	
+tt11858890,The Creator,6.71,평범,긍정,평범	
+tt11866324,Prey,7.50,평범,긍정,평범	
+tt12037194,Furiosa: A Mad Max Saga,7.05,평범,호불호,평범	
+tt1226837,Beautiful Boy,7.50,평범,부정,부정	
+tt12361974,Zack Snyder's Justice League,8.45,긍정,호불호,호불호	
+tt12584954,Twisters,5.55,평범,호불호,평범	
+tt12593682,Bullet Train,7.19,평범,호불호,평범	
+tt1259528,Den of Thieves,6.89,평범,긍정,평범	
+tt1262426,Wicked,7.22,평범,호불호,평범	
+tt1270797,Venom,6.50,평범,호불호,평범	
+tt1302006,The Irishman,8.35,긍정,긍정,긍정	
+tt13238346,Past Lives,8.00,긍정,긍정,긍정	
+tt13560574,X,5.94,평범,호불호,평범	
+tt1392190,Mad Max: Fury Road,8.00,긍정,긍정,긍정	
+tt1396484,It,7.38,평범,호불호,평범	
+tt14230458,Poor Things,7.81,평범,부정,부정	
+tt1431045,Deadpool,7.85,평범,호불호,평범	
+tt1464335,Uncharted,6.83,평범,호불호,평범	
+tt1485796,The Greatest Showman,7.79,평범,긍정,평범	
+tt1488606,Triple Frontier,6.32,평범,호불호,평범	
+tt14961016,I'm Still Here,8.67,긍정,긍정,긍정	
+tt1517268,Barbie,6.35,평범,긍정,평범	
+tt1517451,A Star Is Born,7.84,평범,긍정,평범	
+tt15239678,Dune: Part Two,8.44,긍정,호불호,호불호	
+tt15314262,The Beekeeper,5.63,평범,부정,부정	
+tt15325794,Fall,6.24,평범,호불호,평범	
+tt15398776,Oppenheimer,8.11,긍정,긍정,긍정	
+tt15474916,Smile,6.65,평범,긍정,평범	
+tt15671028,No Hard Feelings,5.91,평범,호불호,평범	
+tt15791034,Barbarian,6.65,평범,호불호,평범	
+tt1596363,The Big Short,8.14,긍정,호불호,호불호	
+tt1630029,Avatar: The Way of Water,7.18,평범,호불호,평범	
+tt1638355,The Man from U.N.C.L.E.,7.50,평범,긍정,평범	
+tt1649418,The Gray Man,6.59,평범,호불호,평범	
+tt1661199,Cinderella,7.54,평범,긍정,평범	
+tt1663202,The Revenant,7.82,평범,호불호,평범	
+tt1677720,Ready Player One,7.86,평범,긍정,평범	
+tt17009710,Anatomy of a Fall,7.77,평범,호불호,평범	
+tt1727824,Bohemian Rhapsody,8.32,긍정,긍정,긍정	
+tt17279496,Civil War,7.38,평범,호불호,평범	
+tt17351924,Saltburn,6.89,평범,긍정,평범	
+tt1745960,Top Gun: Maverick,9.43,긍정,긍정,긍정	
+tt17526714,The Substance,7.22,평범,긍정,평범	
+tt1790809,Pirates of the Caribbean: Dead Men Tell No Tales,6.25,평범,호불호,평범	
+tt1825683,Black Panther,7.26,평범,호불호,평범	
+tt18259086,Sonic the Hedgehog 3,7.27,평범,긍정,평범	
+tt1856101,Blade Runner 2049,8.80,긍정,긍정,긍정	
+tt1877830,The Batman,7.89,평범,긍정,평범	
+tt18925334,Pearl,6.81,평범,호불호,평범	
+tt1895587,Spotlight,8.18,긍정,긍정,긍정	
+tt1911644,The Call,6.44,평범,긍정,평범	
+tt1950186,Ford v Ferrari,8.25,긍정,긍정,긍정	
+tt1951266,The Hunger Games: Mockingjay - Part 2,7.00,평범,호불호,평범	
+tt1959563,The Hitman's Bodyguard,7.05,평범,호불호,평범	
+tt19770238,Aftersun,8.04,긍정,긍정,긍정	
+tt20215234,Conclave,7.42,평범,긍정,평범	
+tt20215968,Hit Man,6.89,평범,긍정,평범	
+tt2096673,Inside Out,8.36,긍정,호불호,호불호	
+tt21064584,The Iron Claw,7.55,평범,긍정,평범	
+tt2106476,The Hunt,8.38,긍정,호불호,호불호	
+tt2119532,Hacksaw Ridge,8.11,긍정,긍정,긍정	
+tt21382296,Carry-On,6.05,평범,호불호,평범	
+tt2140379,Self/less,6.33,평범,긍정,평범	
+tt2140479,The Accountant,7.53,평범,긍정,평범	
+tt22375054,Strange Darling,7.19,평범,긍정,평범	
+tt2250912,Spider-Man: Homecoming,7.78,평범,긍정,평범	
+tt2283362,Jumanji: Welcome to the Jungle,7.50,평범,호불호,평범	
+tt2361509,The Intern,7.82,평범,긍정,평범	
+tt2379713,Spectre,7.62,평범,긍정,평범	
+tt2380307,Coco,8.81,긍정,긍정,긍정	
+tt2381249,Mission: Impossible - Rogue Nation,7.85,평범,긍정,평범	
+tt2382320,No Time to Die,7.12,평범,호불호,평범	
+tt23849204,12th Fail,9.21,긍정,호불호,호불호	
+tt2386490,How to Train Your Dragon: The Hidden World,7.81,평범,호불호,평범	
+tt2395427,Avengers: Age of Ultron,7.21,평범,호불호,평범	
+tt2404435,The Magnificent Seven,6.90,평범,호불호,평범	
+tt2488496,Star Wars: Episode VII - The Force Awakens,8.20,긍정,호불호,호불호	
+tt2494362,Bone Tomahawk,6.94,평범,호불호,평범	
+tt2527336,Star Wars: Episode VIII - The Last Jedi,6.10,평범,호불호,평범	
+tt2527338,Star Wars: Episode IX - The Rise of Skywalker,5.67,평범,부정,부정	
+tt2543164,Arrival,8.13,긍정,호불호,호불호	
+tt2582782,Hell or High Water,7.55,평범,긍정,평범	
+tt2584384,Jojo Rabbit,8.00,긍정,호불호,호불호	
+tt26047818,Anyone But You,5.45,평범,호불호,평범	
+tt26625693,The Order,6.73,평범,긍정,평범	
+tt2674426,Me Before You,7.95,평범,긍정,평범	
+tt2704998,Game Night,7.11,평범,긍정,평범	
+tt27131358,We Live in Time,7.05,평범,긍정,평범	
+tt27403986,Juror #2,6.86,평범,호불호,평범	
+tt27534307,Speak No Evil,6.61,평범,긍정,평범	
+tt2798920,Annihilation,6.50,평범,호불호,평범	
+tt28015403,Heretic,7.11,평범,호불호,평범	
+tt28249919,Presence,5.68,평범,부정,부정	
+tt28607951,Anora,7.29,평범,호불호,평범	
+tt2873282,Red Sparrow,6.30,평범,호불호,평범	
+tt2906216,Dungeons & Dragons: Honor Among Thieves,7.11,평범,긍정,평범	
+tt2948356,Zootopia,8.04,긍정,호불호,호불호	
+tt2948372,Soul,8.67,긍정,긍정,긍정	
+tt2953050,Encanto,7.28,평범,긍정,평범	
+tt29623480,The Wild Robot,8.30,긍정,호불호,호불호	
+tt2975590,Batman v Superman: Dawn of Justice,6.70,평범,호불호,평범	
+tt3076658,Creed,7.72,평범,긍정,평범	
+tt3104988,Crazy Rich Asians,6.81,평범,부정,부정	
+tt3107288,The Flash,7.26,평범,호불호,평범	
+tt3110958,Now You See Me 2,6.18,평범,호불호,평범	
+tt3281548,Little Women,8.10,긍정,호불호,호불호	
+tt3315342,Logan,7.88,평범,긍정,평범	
+tt3397884,Sicario,7.82,평범,긍정,평범	
+tt3460252,The Hateful Eight,8.00,긍정,호불호,호불호	
+tt3464902,The Lobster,6.90,평범,부정,부정	
+tt3470600,Sing,7.56,평범,호불호,평범	
+tt3480822,Black Widow,6.32,평범,부정,부정	
+tt3498820,Captain America: Civil War,7.90,평범,긍정,평범	
+tt3501632,Thor: Ragnarok,8.05,긍정,긍정,긍정	
+tt3521164,Moana,7.70,평범,긍정,평범	
+tt3532216,American Made,7.00,평범,호불호,평범	
+tt3569230,Legend,7.00,평범,호불호,평범	
+tt3659388,The Martian,8.11,긍정,긍정,긍정	
+tt3748528,Rogue One: A Star Wars Story,8.45,긍정,긍정,긍정	
+tt3774694,Love,5.00,평범,긍정,평범	
+tt3778644,Solo: A Star Wars Story,7.00,평범,호불호,평범	
+tt3783958,La La Land,8.43,긍정,긍정,긍정	
+tt3794354,Sonic the Hedgehog,7.22,평범,긍정,평범	
+tt3799694,The Nice Guys,7.41,평범,긍정,평범	
+tt3829920,Only the Brave,8.28,긍정,긍정,긍정	
+tt3890160,Baby Driver,7.94,평범,호불호,평범	
+tt4016934,The Handmaiden,7.95,평범,긍정,평범	
+tt4034228,Manchester by the Sea,8.11,긍정,긍정,긍정	
+tt4139588,Polar,6.00,평범,호불호,평범	
+tt4154756,Avengers: Infinity War,9.23,긍정,긍정,긍정	
+tt4154796,Avengers: Endgame,8.21,긍정,호불호,호불호	
+tt4257926,Miracles from Heaven,7.48,평범,긍정,평범	
+tt4263482,The Witch,7.20,평범,호불호,평범	
+tt4425200,John Wick: Chapter 2,7.40,평범,긍정,평범	
+tt4481414,Gifted,7.81,평범,긍정,평범	
+tt4495098,Gran Turismo,7.11,평범,긍정,평범	
+tt4633694,Spider-Man: Into the Spider-Verse,8.89,긍정,호불호,호불호	
+tt4846340,Hidden Figures,8.26,긍정,긍정,긍정	
+tt4873118,The Covenant,7.55,평범,긍정,평범	
+tt4881806,Jurassic World: Fallen Kingdom,6.40,평범,호불호,평범	
+tt4912910,Mission: Impossible - Fallout,7.90,평범,긍정,평범	
+tt4972582,Split,7.44,평범,호불호,평범	
+tt4975722,Moonlight,7.35,평범,긍정,평범	
+tt5013056,Dunkirk,7.93,평범,호불호,평범	
+tt5027774,"""Three Billboards Outside Ebbing",8.11,긍정,긍정,긍정	
+tt5040012,Nosferatu,6.78,평범,호불호,평범	
+tt5052448,Get Out,7.80,평범,긍정,평범	
+tt5083738,The Favourite,7.32,평범,호불호,평범	
+tt5177120,The Ministry of Ungentlemanly Warfare,6.57,평범,부정,부정	
+tt5311514,Your Name.,9.73,긍정,긍정,긍정	
+tt5362988,Wind River,7.53,평범,긍정,평범	
+tt5463162,Deadpool 2,7.39,평범,긍정,평범	
+tt5537002,Killers of the Flower Moon,7.68,평범,긍정,평범	
+tt5580390,The Shape of Water,7.24,평범,호불호,평범	
+tt5638642,The Ritual,6.38,평범,호불호,평범	
+tt5700672,Train to Busan,8.00,긍정,호불호,호불호	
+tt5726616,Call Me by Your Name,8.47,긍정,부정,호불호	
+tt5727208,Uncut Gems,7.30,평범,호불호,평범	
+tt5776858,Phantom Thread,7.55,평범,긍정,평범	
+tt5867314,The Empty Man,6.11,평범,긍정,평범	
+tt5884796,Plane,6.79,평범,긍정,평범	
+tt6048922,Greyhound,6.85,평범,호불호,평범	
+tt6146586,John Wick: Chapter 3 - Parabellum,7.25,평범,호불호,평범	
+tt6264654,Free Guy,7.57,평범,긍정,평범	
+tt6334354,The Suicide Squad,7.30,평범,호불호,평범	
+tt6499752,Upgrade,7.95,평범,긍정,평범	
+tt6644200,A Quiet Place,7.05,평범,호불호,평범	
+tt6710474,Everything Everywhere All at Once,8.10,긍정,호불호,호불호	
+tt6723592,Tenet,7.15,평범,호불호,평범	
+tt6751668,Parasite,8.33,긍정,호불호,호불호	
+tt6772802,Hillbilly Elegy,7.68,평범,호불호,평범	
+tt6791350,Guardians of the Galaxy Vol. 3,7.90,평범,긍정,평범	
+tt6856242,The King's Man,6.10,평범,호불호,평범	
+tt6857112,Us,6.72,평범,부정,부정	
+tt6966692,Green Book,8.60,긍정,긍정,긍정	
+tt7040874,A Simple Favor,6.65,평범,호불호,평범	
+tt7131622,Once Upon a Time... in Hollywood,7.76,평범,호불호,평범	
+tt7144666,The Black Phone,6.88,평범,호불호,평범	
+tt7160372,The Zone of Interest,7.23,평범,호불호,평범	
+tt7286456,Joker,8.55,긍정,긍정,긍정	
+tt7349950,It: Chapter Two,6.32,평범,호불호,평범	
+tt7395114,The Devil All the Time,7.45,평범,긍정,평범	
+tt7401588,Instant Family,7.80,평범,긍정,평범	
+tt7547410,Dora and the Lost City of Gold,5.95,평범,호불호,평범	
+tt7556122,The Old Guard,6.80,평범,호불호,평범	
+tt7711170,Alone,5.55,평범,호불호,평범	
+tt7737786,Greenland,6.37,평범,호불호,평범	
+tt7784604,Hereditary,7.70,평범,호불호,평범	
+tt7798634,Ready or Not,7.08,평범,호불호,평범	
+tt7846844,Enola Holmes,6.53,평범,긍정,평범	
+tt7888964,Nobody,7.10,평범,호불호,평범	
+tt7939766,I'm Thinking of Ending Things,5.94,평범,호불호,평범	
+tt7984734,The Lighthouse,7.86,평범,호불호,평범	
+tt7991608,Red Notice,6.05,평범,호불호,평범	
+tt8267604,Capernaum,8.75,긍정,부정,호불호	
+tt8332922,A Quiet Place Part II,6.74,평범,호불호,평범	
+tt8367814,The Gentlemen,7.71,평범,호불호,평범	
+tt8385148,Hitman's Wife's Bodyguard,5.95,평범,호불호,평범	
+tt8503618,Hamilton,8.50,긍정,긍정,긍정	
+tt8579674,1917,8.41,긍정,긍정,긍정	
+tt8613070,Portrait of a Lady on Fire,8.24,긍정,긍정,긍정	
+tt8633478,Run,6.73,평범,긍정,평범	
+tt8760708,M3GAN,6.14,평범,호불호,평범	
+tt8772262,Midsommar,6.68,평범,부정,부정	
+tt8936646,Extraction,7.33,평범,긍정,평범	
+tt8946378,Knives Out,7.62,평범,호불호,평범	
+tt8999762,The Brutalist,6.50,평범,호불호,평범	
+tt9032400,Eternals,6.00,평범,부정,부정	
+tt9114286,Black Panther: Wakanda Forever,5.88,평범,호불호,평범	
+tt9214832,Emma.,6.89,평범,긍정,평범	
+tt9218128,Gladiator II,5.47,평범,부정,부정	
+tt9362722,Spider-Man: Across the Spider-Verse,9.00,긍정,긍정,긍정	
+tt9376612,Shang-Chi and the Legend of the Ten Rings,7.52,평범,긍정,평범	
+tt9421570,The Guilty,6.30,평범,긍정,평범	
+tt9484998,Palm Springs,7.42,평범,긍정,평범	
+tt9603212,Mission: Impossible - Dead Reckoning Part One,7.38,평범,호불호,평범	
+tt9620288,King Richard,7.30,평범,긍정,평범	
+tt9620292,Promising Young Woman,7.78,평범,긍정,평범	
+tt9639470,Last Night in Soho,6.72,평범,호불호,평범	
+tt9764362,The Menu,6.81,평범,긍정,평범	
+tt9777666,The Tomorrow War,6.14,평범,긍정,평범	

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8" />
+    <title>영화 검색</title>
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.13.2/themes/base/jquery-ui.css">
+    <style>
+        img { width: 150px; }
+        li { margin-bottom: 20px; list-style: none; }
+    </style>
+</head>
+<body>
+    {% load my_filters %}
+
+    <h1>영화 검색</h1>
+
+    <form method="get" action="{% url 'home' %}">
+        <input type="text" name="q" placeholder="영화 제목을 입력하세요" value="{{ query }}" autocomplete="off" />
+        <button type="submit">검색</button>
+    </form>
+
+    {% if query %}
+        <h2>"{{ query }}" 검색 결과</h2>
+        {% if movies %}
+            <ul>
+                {% for movie in movies %}
+                    <li>
+                        <h3>{{ movie.title }} (평균 평점: {{ movie.average_rating }})</h3>
+                        {% with poster_url=posters|dict_key:movie.imdb_id %}
+                            {% if poster_url %}
+                                <img src="{{ poster_url }}" alt="{{ movie.title }} 포스터" />
+                            {% else %}
+                                <p>포스터 없음</p>
+                            {% endif %}
+                        {% endwith %}
+                        <p>평점 감성: {{ movie.rating_sentiment }}</p>
+                        <p>리뷰 감성: {{ movie.review_sentiment }}</p>
+                        <p>전체 감성: {{ movie.overall_sentiment }}</p>
+                    </li>
+                {% endfor %}
+            </ul>
+        {% else %}
+            <p>검색 결과가 없습니다.</p>
+        {% endif %}
+    {% endif %}
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.13.2/jquery-ui.min.js"></script>
+    <script>
+        $(function() {
+            $("input[name='q']").autocomplete({
+                source: "{% url 'autocomplete_movies' %}",
+                minLength: 1,
+            });
+        });
+    </script>
+</body>
+</html>

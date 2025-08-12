@@ -1,0 +1,251 @@
+id,imdb_id,title,rating,genre,year
+0,tt0369610,Jurassic World,6.9,"Action, Adventure, Sci-Fi",2015
+1,tt3774694,Love,6.1,"Drama, Romance",2015
+2,tt2361509,The Intern,7.1,"Comedy, Drama",2015
+3,tt2381249,Mission: Impossible - Rogue Nation,7.4,"Action, Adventure, Thriller",2015
+4,tt3460252,The Hateful Eight,7.8,"Crime, Drama, Mystery",2015
+5,tt1392190,Mad Max: Fury Road,8.1,"Action, Adventure, Sci-Fi",2015
+6,tt3397884,Sicario,7.7,"Action, Crime, Drama",2015
+7,tt1596363,The Big Short,7.8,"Biography, Comedy, Drama",2015
+8,tt3659388,The Martian,8.0,"Adventure, Drama, Sci-Fi",2015
+9,tt1663202,The Revenant,8.0,"Adventure, Drama, Western",2015
+10,tt2140379,Self/less,6.5,"Action, Mystery, Sci-Fi",2015
+11,tt2494362,Bone Tomahawk,7.1,"Drama, Horror, Western",2015
+12,tt4263482,The Witch,7.0,"Drama, Fantasy, Horror",2015
+13,tt2395427,Avengers: Age of Ultron,7.3,"Action, Adventure, Sci-Fi",2015
+14,tt3569230,Legend,6.9,"Biography, Crime, Drama",2015
+15,tt1895587,Spotlight,8.1,"Biography, Crime, Drama",2015
+16,tt1638355,The Man from U.N.C.L.E.,7.2,"Action, Adventure, Comedy",2015
+17,tt2488496,Star Wars: Episode VII - The Force Awakens,7.8,"Action, Adventure, Sci-Fi",2015
+18,tt3464902,The Lobster,7.1,"Drama, Romance, Sci-Fi",2015
+19,tt3076658,Creed,7.6,"Action, Drama, Sport",2015
+20,tt2096673,Inside Out,8.1,"Animation, Adventure, Comedy",2015
+21,tt2379713,Spectre,6.8,"Action, Adventure, Thriller",2015
+22,tt0478970,Ant-Man,7.2,"Action, Comedy, Sci-Fi",2015
+23,tt1951266,The Hunger Games: Mockingjay - Part 2,6.6,"Action, Adventure, Sci-Fi",2015
+24,tt1661199,Cinderella,6.9,"Adventure, Drama, Family",2015
+25,tt2140479,The Accountant,7.3,"Action, Crime, Drama",2016
+26,tt3748528,Rogue One: A Star Wars Story,7.8,"Action, Adventure, Sci-Fi",2016
+27,tt2543164,Arrival,7.9,"Drama, Mystery, Sci-Fi",2016
+28,tt4016934,The Handmaiden,8.1,"Drama, Romance, Thriller",2016
+29,tt2119532,Hacksaw Ridge,8.1,"Biography, Drama, History",2016
+30,tt3783958,La La Land,8.0,"Comedy, Drama, Music",2016
+31,tt2948356,Zootopia,8.0,"Animation, Action, Adventure",2016
+32,tt3799694,The Nice Guys,7.4,"Action, Comedy, Crime",2016
+33,tt2674426,Me Before You,7.4,"Drama, Romance",2016
+34,tt4972582,Split,7.3,"Horror, Thriller",2016
+35,tt5700672,Train to Busan,7.6,"Action, Horror, Thriller",2016
+36,tt4846340,Hidden Figures,7.8,"Biography, Drama, History",2016
+37,tt1431045,Deadpool,8.0,"Action, Comedy, Sci-Fi",2016
+38,tt5311514,Your Name.,8.4,"Animation, Drama, Fantasy",2016
+39,tt4975722,Moonlight,7.4,Drama,2016
+40,tt4034228,Manchester by the Sea,7.8,Drama,2016
+41,tt2404435,The Magnificent Seven,6.9,"Action, Adventure, Drama",2016
+42,tt2975590,Batman v Superman: Dawn of Justice,6.5,"Action, Adventure, Sci-Fi",2016
+43,tt3470600,Sing,7.1,"Animation, Comedy, Family",2016
+44,tt2582782,Hell or High Water,7.6,"Crime, Drama, Thriller",2016
+45,tt3521164,Moana,7.6,"Animation, Adventure, Comedy",2016
+46,tt3110958,Now You See Me 2,6.4,"Action, Adventure, Comedy",2016
+47,tt3498820,Captain America: Civil War,7.8,"Action, Sci-Fi",2016
+48,tt0490215,Silence,7.2,"Drama, History",2016
+49,tt4257926,Miracles from Heaven,7.1,"Biography, Drama, Family",2016
+50,tt1856101,Blade Runner 2049,8.0,"Action, Drama, Mystery",2017
+51,tt5052448,Get Out,7.8,"Horror, Mystery, Thriller",2017
+52,tt1396484,It,7.3,Horror,2017
+53,tt1959563,The Hitman's Bodyguard,6.9,"Action, Comedy, Crime",2017
+54,tt4425200,John Wick: Chapter 2,7.4,"Action, Crime, Thriller",2017
+55,tt3829920,Only the Brave,7.6,"Action, Biography, Drama",2017
+56,tt5013056,Dunkirk,7.8,"Action, Drama, History",2017
+57,tt5726616,Call Me by Your Name,7.8,"Drama, Romance",2017
+58,tt2283362,Jumanji: Welcome to the Jungle,7.0,"Action, Adventure, Comedy",2017
+59,tt1485796,The Greatest Showman,7.5,"Biography, Drama, Musical",2017
+60,tt1790809,Pirates of the Caribbean: Dead Men Tell No Tales,6.5,"Action, Adventure, Fantasy",2017
+61,tt3532216,American Made,7.1,"Action, Comedy, Crime",2017
+62,tt5362988,Wind River,7.7,"Crime, Drama, Mystery",2017
+63,tt3501632,Thor: Ragnarok,7.9,"Action, Adventure, Comedy",2017
+64,tt5027774,"Three Billboards Outside Ebbing, Missouri",8.1,"Comedy, Crime, Drama",2017
+65,tt3890160,Baby Driver,7.5,"Action, Crime, Drama",2017
+66,tt2380307,Coco,8.4,"Animation, Adventure, Drama",2017
+67,tt5580390,The Shape of Water,7.3,"Drama, Fantasy, Romance",2017
+68,tt3315342,Logan,8.1,"Action, Drama, Sci-Fi",2017
+69,tt2250912,Spider-Man: Homecoming,7.4,"Action, Adventure, Sci-Fi",2017
+70,tt5638642,The Ritual,6.4,"Horror, Mystery, Thriller",2017
+71,tt5776858,Phantom Thread,7.4,"Drama, Romance",2017
+72,tt4481414,Gifted,7.6,Drama,2017
+73,tt0974015,Justice League,6.0,"Action, Adventure, Fantasy",2017
+74,tt2527336,Star Wars: Episode VIII - The Last Jedi,6.9,"Action, Adventure, Fantasy",2017
+75,tt4881806,Jurassic World: Fallen Kingdom,6.1,"Action, Adventure, Sci-Fi",2018
+76,tt4912910,Mission: Impossible - Fallout,7.7,"Action, Adventure, Thriller",2018
+77,tt6966692,Green Book,8.2,"Biography, Comedy, Drama",2018
+78,tt7784604,Hereditary,7.3,"Drama, Horror, Mystery",2018
+79,tt4154756,Avengers: Infinity War,8.4,"Action, Adventure, Sci-Fi",2018
+80,tt1825683,Black Panther,7.3,"Action, Adventure, Sci-Fi",2018
+81,tt4633694,Spider-Man: Into the Spider-Verse,8.4,"Animation, Action, Adventure",2018
+82,tt6499752,Upgrade,7.5,"Action, Sci-Fi, Thriller",2018
+83,tt1259528,Den of Thieves,7.0,"Action, Crime, Drama",2018
+84,tt2798920,Annihilation,6.8,"Adventure, Drama, Horror",2018
+85,tt7040874,A Simple Favor,6.8,"Comedy, Crime, Mystery",2018
+86,tt6644200,A Quiet Place,7.5,"Drama, Horror, Sci-Fi",2018
+87,tt1677720,Ready Player One,7.4,"Action, Adventure, Sci-Fi",2018
+88,tt2704998,Game Night,6.9,"Action, Adventure, Comedy",2018
+89,tt1517451,A Star Is Born,7.6,"Drama, Music, Romance",2018
+90,tt7401588,Instant Family,7.3,"Comedy, Drama",2018
+91,tt1226837,Beautiful Boy,7.4,"Biography, Drama",2018
+92,tt1270797,Venom,6.6,"Action, Adventure, Sci-Fi",2018
+93,tt8267604,Capernaum,8.4,Drama,2018
+94,tt5083738,The Favourite,7.5,"Biography, Comedy, Drama",2018
+95,tt1727824,Bohemian Rhapsody,7.9,"Biography, Drama, Music",2018
+96,tt5463162,Deadpool 2,7.6,"Action, Adventure, Comedy",2018
+97,tt2873282,Red Sparrow,6.6,"Action, Drama, Thriller",2018
+98,tt3104988,Crazy Rich Asians,6.9,"Comedy, Drama, Romance",2018
+99,tt3778644,Solo: A Star Wars Story,6.9,"Action, Adventure, Sci-Fi",2018
+100,tt6751668,Parasite,8.5,"Drama, Thriller",2019
+101,tt7131622,Once Upon a Time... in Hollywood,7.6,"Comedy, Drama",2019
+102,tt1950186,Ford v Ferrari,8.1,"Action, Biography, Drama",2019
+103,tt4154796,Avengers: Endgame,8.4,"Action, Adventure, Sci-Fi",2019
+104,tt8946378,Knives Out,7.9,"Comedy, Crime, Drama",2019
+105,tt8772262,Midsommar,7.1,"Drama, Horror, Mystery",2019
+106,tt8367814,The Gentlemen,7.8,"Action, Crime",2019
+107,tt7547410,Dora and the Lost City of Gold,6.1,"Action, Adventure, Comedy",2019
+108,tt7286456,Joker,8.3,"Crime, Drama, Thriller",2019
+109,tt2386490,How to Train Your Dragon: The Hidden World,7.4,"Animation, Action, Adventure",2019
+110,tt6146586,John Wick: Chapter 3 - Parabellum,7.4,"Action, Crime, Drama",2019
+111,tt8579674,1917,8.2,"Action, Drama, War",2019
+112,tt6857112,Us,6.8,"Horror, Mystery, Thriller",2019
+113,tt2527338,Star Wars: Episode IX - The Rise of Skywalker,6.4,"Action, Adventure, Fantasy",2019
+114,tt1302006,The Irishman,7.8,"Biography, Crime, Drama",2019
+115,tt3281548,Little Women,7.8,"Drama, Romance",2019
+116,tt0103639,Aladdin,8.0,"Animation, Adventure, Comedy",2019
+117,tt5727208,Uncut Gems,7.4,"Crime, Drama, Thriller",2019
+118,tt8613070,Portrait of a Lady on Fire,8.1,"Drama, Romance",2019
+119,tt7984734,The Lighthouse,7.4,"Drama, Fantasy, Horror",2019
+120,tt7798634,Ready or Not,6.8,"Action, Comedy, Horror",2019
+121,tt4139588,Polar,6.3,"Action, Crime, Thriller",2019
+122,tt7349950,It: Chapter Two,6.5,"Drama, Fantasy, Horror",2019
+123,tt2584384,Jojo Rabbit,7.9,"Comedy, Drama, War",2019
+124,tt1488606,Triple Frontier,6.5,"Action, Thriller",2019
+125,tt7556122,The Old Guard,6.7,"Action, Thriller",2020
+126,tt8503618,Hamilton,8.3,"Biography, Drama, History",2020
+127,tt6723592,Tenet,7.3,"Action, Sci-Fi, Thriller",2020
+128,tt9484998,Palm Springs,7.4,"Comedy, Fantasy, Mystery",2020
+129,tt2106476,The Hunt,8.3,Drama,2020
+130,tt10272386,The Father,8.2,"Drama, Mystery",2020
+131,tt9620292,Promising Young Woman,7.5,"Crime, Drama, Mystery",2020
+132,tt10288566,Another Round,7.7,"Comedy, Drama",2020
+133,tt1051906,The Invisible Man,7.1,"Drama, Horror, Mystery",2020
+134,tt7395114,The Devil All the Time,7.1,"Crime, Drama, Thriller",2020
+135,tt6048922,Greyhound,7.0,"Drama, History, War",2020
+136,tt2948372,Soul,8.0,"Animation, Adventure, Comedy",2020
+137,tt8936646,Extraction,6.8,"Action, Crime, Thriller",2020
+138,tt3794354,Sonic the Hedgehog,6.5,"Action, Adventure, Comedy",2020
+139,tt8633478,Run,6.7,"Drama, Horror, Mystery",2020
+140,tt7737786,Greenland,6.4,"Action, Thriller",2020
+141,tt9214832,Emma.,6.7,"Comedy, Drama, Romance",2020
+142,tt11032374,Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train,8.2,"Animation, Action, Adventure",2020
+143,tt7711170,Alone,6.2,"Drama, Mystery, Thriller",2020
+144,tt5867314,The Empty Man,6.2,"Drama, Horror, Mystery",2020
+145,tt7846844,Enola Holmes,6.6,"Adventure, Crime, Drama",2020
+146,tt6772802,Hillbilly Elegy,6.7,"Biography, Drama",2020
+147,tt8332922,A Quiet Place Part II,7.2,"Drama, Horror, Sci-Fi",2020
+148,tt1911644,The Call,6.7,"Drama, Horror, Thriller",2020
+149,tt7939766,I'm Thinking of Ending Things,6.5,"Drama, Thriller",2020
+150,tt1160419,Dune: Part One,8.0,"Action, Adventure, Drama",2021
+151,tt7888964,Nobody,7.4,"Action, Crime, Drama",2021
+152,tt10872600,Spider-Man: No Way Home,8.2,"Action, Adventure, Fantasy",2021
+153,tt2382320,No Time to Die,7.3,"Action, Adventure, Thriller",2021
+154,tt11083552,Wrath of Man,7.1,"Action, Crime, Thriller",2021
+155,tt9032400,Eternals,6.2,"Action, Adventure, Fantasy",2021
+156,tt6334354,The Suicide Squad,7.2,"Action, Adventure, Comedy",2021
+157,tt3480822,Black Widow,6.6,"Action, Adventure, Sci-Fi",2021
+158,tt9620288,King Richard,7.5,"Biography, Drama, Sport",2021
+159,tt8385148,Hitman's Wife's Bodyguard,6.1,"Action, Comedy, Crime",2021
+160,tt10370710,The Worst Person in the World,7.7,"Comedy, Drama, Romance",2021
+161,tt11286314,Don't Look Up,7.2,"Comedy, Drama, Sci-Fi",2021
+162,tt11235772,The Voyeurs,6.1,"Drama, Mystery, Romance",2021
+163,tt7144666,The Black Phone,6.9,"Horror, Mystery, Thriller",2021
+164,tt9777666,The Tomorrow War,6.6,"Action, Adventure, Drama",2021
+165,tt10366460,CODA,8.0,"Comedy, Drama, Music",2021
+166,tt6264654,Free Guy,7.1,"Action, Adventure, Comedy",2021
+167,tt12361974,Zack Snyder's Justice League,7.9,"Action, Adventure, Fantasy",2021
+168,tt9376612,Shang-Chi and the Legend of the Ten Rings,7.3,"Action, Adventure, Fantasy",2021
+169,tt11271038,Licorice Pizza,7.1,"Comedy, Drama, Romance",2021
+170,tt2953050,Encanto,7.2,"Animation, Comedy, Family",2021
+171,tt9639470,Last Night in Soho,7.0,"Drama, Horror, Mystery",2021
+172,tt6856242,The King's Man,6.3,"Action, Adventure, Thriller",2021
+173,tt7991608,Red Notice,6.3,"Action, Comedy, Thriller",2021
+174,tt9421570,The Guilty,6.3,"Crime, Drama, Thriller",2021
+175,tt1745960,Top Gun: Maverick,8.2,"Action, Drama",2022
+176,tt8760708,M3GAN,6.3,"Horror, Sci-Fi, Thriller",2022
+177,tt12593682,Bullet Train,7.3,"Action, Comedy, Thriller",2022
+178,tt10638522,Talk to Me,7.1,"Horror, Thriller",2022
+179,tt15791034,Barbarian,7.0,"Horror, Mystery, Thriller",2022
+180,tt1877830,The Batman,7.8,"Action, Crime, Drama",2022
+181,tt13560574,X,6.5,"Horror, Mystery, Thriller",2022
+182,tt9764362,The Menu,7.2,"Comedy, Horror, Thriller",2022
+183,tt11866324,Prey,7.1,"Action, Adventure, Horror",2022
+184,tt6710474,Everything Everywhere All at Once,7.8,"Action, Adventure, Comedy",2022
+185,tt10640346,Babylon,7.1,"Comedy, Drama",2022
+186,tt9114286,Black Panther: Wakanda Forever,6.6,"Action, Adventure, Drama",2022
+187,tt11813216,The Banshees of Inisherin,7.7,"Comedy, Drama",2022
+188,tt19770238,Aftersun,7.6,Drama,2022
+189,tt18925334,Pearl,7.0,"Drama, Horror, Thriller",2022
+190,tt11138512,The Northman,7.0,"Action, Adventure, Drama",2022
+191,tt15325794,Fall,6.4,"Action, Thriller",2022
+192,tt1649418,The Gray Man,6.5,"Action, Mystery, Thriller",2022
+193,tt11564570,Glass Onion,7.1,"Comedy, Crime, Drama",2022
+194,tt10731256,Don't Worry Darling,6.3,"Drama, Mystery, Thriller",2022
+195,tt10954984,Nope,6.8,"Horror, Mystery, Sci-Fi",2022
+196,tt1464335,Uncharted,6.3,"Action, Adventure",2022
+197,tt1630029,Avatar: The Way of Water,7.5,"Action, Adventure, Fantasy",2022
+198,tt15474916,Smile,6.5,"Horror, Mystery, Thriller",2022
+199,tt10648342,Thor: Love and Thunder,6.2,"Action, Adventure, Comedy",2022
+200,tt15398776,Oppenheimer,8.3,"Biography, Drama, History",2023
+201,tt9603212,Mission: Impossible - Dead Reckoning Part One,7.6,"Action, Adventure, Thriller",2023
+202,tt10366206,John Wick: Chapter 4,7.6,"Action, Crime, Thriller",2023
+203,tt22375054,Strange Darling,7.1,"Horror, Thriller",2023
+204,tt10545296,The Hunger Games: The Ballad of Songbirds & Snakes,6.7,"Action, Adventure, Drama",2023
+205,tt15671028,No Hard Feelings,6.3,"Comedy, Romance",2023
+206,tt26047818,Anyone But You,6.1,"Comedy, Romance",2023
+207,tt5884796,Plane,6.5,"Action, Adventure, Thriller",2023
+208,tt3107288,The Flash,7.5,"Action, Adventure, Drama",2023
+209,tt1517268,Barbie,6.8,"Adventure, Comedy, Fantasy",2023
+210,tt14230458,Poor Things,7.8,"Comedy, Drama, Romance",2023
+211,tt9362722,Spider-Man: Across the Spider-Verse,8.5,"Animation, Action, Adventure",2023
+212,tt5537002,Killers of the Flower Moon,7.6,"Crime, Drama, History",2023
+213,tt20215968,Hit Man,6.8,"Comedy, Crime, Romance",2023
+214,tt13238346,Past Lives,7.8,"Drama, Romance",2023
+215,tt4495098,Gran Turismo,7.1,"Action, Adventure, Drama",2023
+216,tt17351924,Saltburn,7.0,"Drama, Thriller",2023
+217,tt6791350,Guardians of the Galaxy Vol. 3,7.9,"Action, Adventure, Comedy",2023
+218,tt7160372,The Zone of Interest,7.3,"Drama, History, War",2023
+219,tt23849204,12th Fail,8.7,"Biography, Drama",2023
+220,tt11858890,The Creator,6.7,"Action, Adventure, Drama",2023
+221,tt21064584,The Iron Claw,7.6,"Biography, Drama, Sport",2023
+222,tt17009710,Anatomy of a Fall,7.6,"Crime, Drama, Thriller",2023
+223,tt2906216,Dungeons & Dragons: Honor Among Thieves,7.2,"Action, Adventure, Comedy",2023
+224,tt4873118,The Covenant,7.5,"Action, Drama, Thriller",2023
+225,tt5040012,Nosferatu,7.3,"Fantasy, Horror, Mystery",2024
+226,tt28015403,Heretic,7.0,"Horror, Thriller",2024
+227,tt9218128,Gladiator II,6.5,"Action, Adventure, Drama",2024
+228,tt28607951,Anora,7.5,"Comedy, Drama, Romance",2024
+229,tt1262426,Wicked,7.4,"Fantasy, Musical, Romance",2024
+230,tt27131358,We Live in Time,7.0,"Drama, Romance",2024
+231,tt17526714,The Substance,7.2,"Drama, Horror, Sci-Fi",2024
+232,tt8999762,The Brutalist,7.4,Drama,2024
+233,tt11563598,A Complete Unknown,7.3,"Biography, Drama, Music",2024
+234,tt15239678,Dune: Part Two,8.5,"Action, Adventure, Drama",2024
+235,tt12584954,Twisters,6.5,"Action, Adventure, Thriller",2024
+236,tt29623480,The Wild Robot,8.2,"Animation, Sci-Fi",2024
+237,tt20215234,Conclave,7.4,"Drama, Thriller",2024
+238,tt26625693,The Order,6.8,"Crime, Drama, Thriller",2024
+239,tt1431045,Deadpool & Wolverine,8.0,"Action, Comedy, Sci-Fi",2024
+240,tt5177120,The Ministry of Ungentlemanly Warfare,6.8,"Action, Comedy, War",2024
+241,tt12037194,Furiosa: A Mad Max Saga,7.5,"Action, Adventure, Sci-Fi",2024
+242,tt27534307,Speak No Evil,6.8,"Drama, Horror, Thriller",2024
+243,tt15314262,The Beekeeper,6.3,"Action, Crime, Thriller",2024
+244,tt14961016,I'm Still Here,8.6,"Biography, Drama, History",2024
+245,tt18259086,Sonic the Hedgehog 3,6.9,"Action, Adventure, Comedy",2024
+246,tt21382296,Carry-On,6.5,"Action, Crime, Thriller",2024
+247,tt28249919,Presence,6.1,"Drama, Horror, Thriller",2024
+248,tt17279496,Civil War,7.0,"Action, Thriller",2024
+249,tt27403986,Juror #2,7.0,"Crime, Drama, Mystery",2024
