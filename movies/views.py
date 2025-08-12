@@ -6,7 +6,10 @@ import requests
 from django.shortcuts import render
 from .models import MovieReview
 
-OMDB_API_KEY = 'b8dd9efc'
+from django.conf import settings
+
+OMDB_API_KEY = settings.OMDB_API_KEY
+
 
 def movie_search(request):
     query = request.GET.get('q', '')
