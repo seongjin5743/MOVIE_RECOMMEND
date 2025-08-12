@@ -36,6 +36,18 @@
                         <p>평점 감성: {{ movie.rating_sentiment }}</p>
                         <p>리뷰 감성: {{ movie.review_sentiment }}</p>
                         <p>전체 감성: {{ movie.overall_sentiment }}</p>
+                        {% with review=selected_reviews|dict_key:movie.imdb_id %}
+                            {% if review %}
+                                <div style="margin-top: 10px; padding: 10px; border: 1px solid #ccc;">
+                                    <strong>선택된 리뷰:</strong>
+                                    <p><em>제목:</em> {{ review.review_title }}</p>
+                                    <p><em>평점:</em> {{ review.review_rating }}</p>
+                                    <p><em>내용:</em> {{ review.review_text }}</p>
+                                </div>
+                            {% else %}
+                                <p>조건에 맞는 리뷰가 없습니다.</p>
+                            {% endif %}
+                        {% endwith %}
                     </li>
                 {% endfor %}
             </ul>
