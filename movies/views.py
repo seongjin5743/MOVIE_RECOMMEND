@@ -14,7 +14,7 @@ def movie_search(request):
     query = request.GET.get('q', '')
     movies = []
     posters = {}
-    selected_reviews = {}  # imdb_id별 선택된 리뷰 저장
+    selected_reviews = {}
 
     if query:
         movies = MovieReview.objects.filter(title__icontains=query)
@@ -29,7 +29,6 @@ def movie_search(request):
             else:
                 posters[movie.imdb_id] = None
 
-            # 전체 감성에 따라 필터링된 리뷰 queryset 준비
             overall = movie.overall_sentiment.lower()
             reviews_qs = MovieReviewText.objects.filter(movie=movie)
 
@@ -38,15 +37,13 @@ def movie_search(request):
             elif overall == 'negative' or overall == '부정':
                 reviews_qs = reviews_qs.filter(review_rating__lte=5)
             elif overall == 'neutral' or overall == '호불호':
-                # 긍정 리뷰와 부정 리뷰 각각 하나씩 뽑아 리스트로 합침
+
                 pos_reviews = reviews_qs.filter(review_rating__gte=7)
                 neg_reviews = reviews_qs.filter(review_rating__lte=5)
                 reviews_qs = list(pos_reviews) + list(neg_reviews)
             else:
-                # 감성 정보 없거나 기타는 전체 리뷰 사용
                 reviews_qs = list(reviews_qs)
 
-            # 리뷰가 존재하면 랜덤 선택
             if reviews_qs:
                 if isinstance(reviews_qs, list):
                     selected_review = random.choice(reviews_qs)
