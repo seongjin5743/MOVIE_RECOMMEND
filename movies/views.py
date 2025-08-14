@@ -20,7 +20,6 @@ def movie_search(request):
         movies = MovieReview.objects.filter(title__icontains=query)
 
         for movie in movies:
-            # OMDB 포스터 요청
             url = f"https://www.omdbapi.com/?i={movie.imdb_id}&apikey={OMDB_API_KEY}"
             resp = requests.get(url)
             if resp.status_code == 200:
