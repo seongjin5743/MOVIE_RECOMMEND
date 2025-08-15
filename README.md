@@ -1,4 +1,4 @@
-# MOVIE_RECOMMEND
+# MARS – Movie Analysis & Recommendation System
 
 ## 프로젝트 개요
 이 프로젝트는 영화 리뷰 데이터를 기반으로 영화별 평점과 리뷰 감정을 분석하여 사용자에게 맞춤형 추천 정보를 제공하는 시스템입니다.
